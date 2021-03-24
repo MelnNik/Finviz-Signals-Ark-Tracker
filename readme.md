@@ -23,7 +23,10 @@ ReactJS For [inital Frontend](https://github.com/lit26/Ark_Trade_Tracker) by [@l
 
 ## 🔗 Links
 
-[Backend Available Here](https://tradetryhard-backend.herokuapp.com/api/)
-[Frontend Available Here](https://tradetryhard-backend.web.app)
-[FinViz Patterns Parser](https://github.com/MelnNik/FinViz-patterns)
+[Backend Available Here](https://tradetryhard-backend.herokuapp.com/api/) <br />
+
+[Frontend Available Here](https://tradetryhard-backend.web.app) <br />
+
+[FinViz Patterns Parser](https://github.com/MelnNik/FinViz-patterns) <br />
+
 [Inital Frontend](https://github.com/lit26/Ark_Trade_Tracker) by [@lit26](https://github.com/lit26)
