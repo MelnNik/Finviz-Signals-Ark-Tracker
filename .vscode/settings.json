@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "C:\\Users\\melni\\.virtualenvs\\backend-7kZ6N4Tj\\Scripts\\python.exe",
+  "python.formatting.autopep8Args": [
+    "--indent-size=2",
+    "--ignore E121"
+  ],
+}

@@ -1,0 +1,24 @@
+.table-dark{
+    color: #212529;
+    background-color: #d1d4dc !important;
+}
+.Tradetable{
+    margin: 15px;
+    color:rgb(19, 23, 34);
+}
+.Tradetable__page{
+    text-align: center;
+}
+.Tradetable__sort{
+    width:24px;
+}
+.Tradetable__header{
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.Tradetable__row{
+    cursor: pointer;
+    color: #212529;
+}
+

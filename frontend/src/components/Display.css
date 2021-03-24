@@ -1,0 +1,22 @@
+.Display{
+    background-color:rgb(209, 212, 220);
+    min-height: 85vh;
+    display: flex;
+}
+.Display>div{
+    border: 2px solid rgb(120, 122, 126);
+}
+.Display__left{
+    flex: 0.75;
+}
+.Display__right{
+    /* background-color:#222838; */
+    min-width: 200px;
+    flex: 0.25;
+    
+}
+@media screen and (max-width: 1240px) {
+    .Display {
+      flex-direction: column;
+    }
+}

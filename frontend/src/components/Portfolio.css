@@ -1,0 +1,40 @@
+.Portfolio{
+    padding: 5px 10px;
+}
+.Portfolio table{
+    width: 100%;
+}
+.Portfolio tr{
+    text-align:left
+}
+.Portfolio table{
+    border-collapse:collapse;
+}
+.Portfolio__top{
+    display: flex;
+    justify-content: space-between;
+}
+.Portfolio__top svg{
+    background-color: rgb(209, 212, 220);
+    border-radius: 5px;
+    padding: 2px;
+    cursor: pointer;
+}
+.Portfolio__setting h2{
+    margin:7px 0px;
+}
+.Portfolio__header{
+    border-bottom: 1px solid;
+    background-color: rgb(209, 212, 220);
+}
+.Portfolio tr:hover{
+    cursor: pointer;
+    background-color: rgb(179, 180, 182);
+}
+@media screen and (max-width: 1440px) {
+    .Portfolio__info {
+        display:flex;
+        width:90%;
+        margin:auto
+    }
+}

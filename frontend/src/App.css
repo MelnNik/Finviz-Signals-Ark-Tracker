@@ -1,0 +1,43 @@
+.App {
+  font-size:12px;
+  min-height: 100vh;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  max-width:1440px;
+  min-width: 900px;
+  background-color: rgb(209, 212, 220);
+}
+.Header{
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Header > div {
+  zoom: .8;
+  margin-top: 16px;
+}
+
+.Header h1{
+  margin-top:10px;
+}
+.Content{
+  flex-grow: 1;
+  position:relative;
+  background-color: rgb(209, 212, 220);
+}
+#root{
+  color:rgb(19, 23, 34);
+  background-color: rgb(209, 212, 220);
+  font-family: 'Roboto', sans-serif;
+}
+.Footer{
+  height:40px;
+  background-color: rgb(209, 212, 220);
+  max-height: 40vh;
+}
+.Footer div{
+  padding: 5px;
+}
