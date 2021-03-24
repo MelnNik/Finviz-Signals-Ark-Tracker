@@ -15,11 +15,11 @@ ReactJS For [inital Frontend](https://github.com/lit26/Ark_Trade_Tracker) by [@l
 
 ![FrontPage](assets/MainPage.PNG)
 
-![ARKMoves](assets/ARKKMoves.pngPNG)
+![ARKMoves](assets/ARKKMoves.PNG)
 
 ![SignalsPage](assets/SignalsPage.PNG)
 
-![ApiOverview](assets/ApiOveview.PNG)
+![ApiOverview](assets/ApiOverview.PNG)
 
 ## 🔗 Links
 
