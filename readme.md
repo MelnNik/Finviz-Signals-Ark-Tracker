@@ -1,4 +1,4 @@
-# FinViz Patterns Signals and ARK ETF Trackes
+# FinViz Patterns Signals and ARK ETF Tracker
 
 Project for choosing the best signals to buy or sell a stock from FinViz using [repository](https://github.com/MelnNik/FinViz-patterns).
 Also, the app represents daily changes in the ARK's portfolio and showcases the best signals from it.
